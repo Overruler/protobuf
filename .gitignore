@@ -1,3 +1,4 @@
+/.project
 # autogen.sh-generated files
 Makefile.in
 src/Makefile.in
@@ -60,4 +61,3 @@ src/protobuf*-test
 src/test_plugin
 src/testzip.*
 src/zcg*zip
-ar-lib
